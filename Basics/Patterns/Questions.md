@@ -1,4 +1,6 @@
-Pattern Questions
+# Pattern Questions
+
+### I've not written the full code for these. But you'll find all the main loops or functions I've used for each in here. All the Best!
 
 ```text
 
