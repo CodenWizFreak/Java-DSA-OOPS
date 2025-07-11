@@ -1,4 +1,4 @@
-# 🧠 Java + DSA Roadmap (Beginner to Advanced)
+# 🧠 Java + DSA Repo (Beginner to Advanced)
 
 Welcome to the ultimate 🚀 Java + DSA preparation guide! This repository follows a structured, topic-wise learning path designed for beginners, intermediate, and advanced learners alike.
 
