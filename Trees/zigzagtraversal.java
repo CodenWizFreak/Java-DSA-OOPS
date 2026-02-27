@@ -63,3 +63,13 @@ class Solution {
         return result;
     }
 }
+
+// Another problem Leetcode 107. Same code. Just the ending of the while loop is different
+
+//Add this inside the while loop at the end
+// Apply zigzag AFTER bottom insertion logic
+            if(k % 2 == 1) {
+                Collections.reverse(currentlevel);
+            }
+
+            result.add(0, currentlevel);  // add at front (bottom-up)
